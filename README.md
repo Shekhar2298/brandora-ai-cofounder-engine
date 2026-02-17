@@ -100,7 +100,7 @@ Running Locally
 
 Clone repo:
 
-git clone https://github.com/yourname/brandora-ai-cofounder-engine
+git clone https://github.com/Shekhar2298/brandora-ai-cofounder-engine
 cd brandora-ai-cofounder-engine
 
 
